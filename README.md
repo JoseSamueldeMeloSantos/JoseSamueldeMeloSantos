@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**JoseSamueldeMeloSantos/JoseSamueldeMeloSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Conteúdo  -->
+<div align="center">
+  <H2>
+    Hi there 👋, my name is José Samuel.
+  <H2>
 
-Here are some ideas to get you started:
+  <img src="https://media0.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif?cid=ecf05e4731o9qtpimwybqt0tlg8ocy2edxr6l16j9jmnnh6o&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="forrest gump saying hello">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+    
+  <!-- Status do Github  -->
+  ![JoseSamueldeMeloSantos GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseSamueldeMeloSantos&show_icons=true&theme=dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseSamueldeMeloSantos&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
