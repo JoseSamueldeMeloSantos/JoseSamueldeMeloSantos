@@ -34,12 +34,25 @@ Here on my GitHub, I share my projects, studies, and experiments with various te
 
 ## 🎯 A Little More About Me
 
-Besides coding, I enjoy:
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; max-width: 400px;">
 
-- 🎮 Gaming   
-- 📚 Learning new things  
-- ☕ Lots of coffee
-- 🗣️ Learning languages  
+  <div style="flex: 1 1 45%; min-width: 150px; font-size: 1.1rem;">
+    🎮 Gaming
+  </div>
+
+  <div style="flex: 1 1 45%; min-width: 150px; font-size: 1.1rem;">
+    📚 Learning new things
+  </div>
+
+  <div style="flex: 1 1 45%; min-width: 150px; font-size: 1.1rem;">
+    ☕ Lots of coffee
+  </div>
+
+  <div style="flex: 1 1 45%; min-width: 150px; font-size: 1.1rem;">
+    🗣️ Learning languages
+  </div>
+
+</div>
 
 ---
 
