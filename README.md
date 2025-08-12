@@ -1,11 +1,11 @@
-# Olá, eu sou o Samuel Melo 👋
+# Hello, I'm Samuel Melo 👋
 
-Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante.  
-Aqui no meu GitHub compartilho meus projetos, estudos e experimentos nas mais diversas tecnologias que domino e estou evoluindo.
+I'm a passionate developer who loves technology and continuous learning.  
+Here on my GitHub, I share my projects, studies, and experiments with various technologies I master and am evolving in.
 
 ---
 
-## 🚀 Tecnologias que eu domino
+## 🚀 Technologies I Master
 
 <table>
   <tr>
@@ -20,7 +20,7 @@ Aqui no meu GitHub compartilho meus projetos, estudos e experimentos nas mais di
 
 ---
 
-## 🔥 Tecnologias em evolução
+## 🔥 Technologies I'm Improving
 
 <table>
   <tr>
@@ -32,20 +32,35 @@ Aqui no meu GitHub compartilho meus projetos, estudos e experimentos nas mais di
 
 ---
 
+## 📂 Featured Projects
 
-## 🎯 Um pouco mais sobre mim
+- [Project 1](project-1-link) — A brief description of what it does and technologies used.  
+- [Project 2](project-2-link) — Another cool project focused on X and Y.  
+- More amazing projects coming soon!
 
-Além de codar, adoro:
+---
 
-- 🎮 Jogos  
-- 🎵 Música  
-- 📚 Aprender coisas novas  
-- ☕ Café (muito café)
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [Twitter](https://twitter.com/your-profile)  
+- Email: your.email@example.com
+
+---
+
+## 🎯 A Little More About Me
+
+Besides coding, I enjoy:
+
+- 🎮 Gaming  
+- 🎵 Music  
+- 📚 Learning new things  
+- ☕ Lots of coffee
 
 ---
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=380&height=40&lines=Bem-vindo+ao+meu+GitHub!;Vamos+codar+juntos!;Sempre+aprendendo+e+compartilhando!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=380&height=40&lines=Welcome+to+my+GitHub!;Let's+code+together!;Always+learning+and+sharing!)
 
 </div>
