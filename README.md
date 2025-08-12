@@ -32,30 +32,14 @@ Here on my GitHub, I share my projects, studies, and experiments with various te
 
 ---
 
-## 📂 Featured Projects
-
-- [Project 1](project-1-link) — A brief description of what it does and technologies used.  
-- [Project 2](project-2-link) — Another cool project focused on X and Y.  
-- More amazing projects coming soon!
-
----
-
-## 📫 How to Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Twitter](https://twitter.com/your-profile)  
-- Email: your.email@example.com
-
----
-
 ## 🎯 A Little More About Me
 
 Besides coding, I enjoy:
 
-- 🎮 Gaming  
-- 🎵 Music  
+- 🎮 Gaming   
 - 📚 Learning new things  
 - ☕ Lots of coffee
+- 🗣️ Learning languages  
 
 ---
 
