@@ -1,4 +1,4 @@
-<div style="font-size: 14px; line-height: 1.4;">
+
   <img src="https://i.pinimg.com/originals/5a/18/23/5a18235734019e327369384ced24a054.jpg" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
   <p align="left"> 
@@ -34,4 +34,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="30" height="30" alt="IntelliJ IDEA"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" height="30" alt="Postman"/>
   </p>
-</div>
+
