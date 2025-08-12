@@ -5,7 +5,7 @@
   Olá! Me chamo Samuel Melo. Sou desenvolvedor apaixonado por tecnologia.<br>
   Minha stack principal inclui as linguagens e ferramentas que uso no dia a dia.<br>
   Atualmente estou me aperfeiçoando em Spring e React.<br>
-  Trabalho/estudo na área de desenvolvimento de software.
+  estudo na área de desenvolvimento de software.
 </p>
 
 <p align="left">
