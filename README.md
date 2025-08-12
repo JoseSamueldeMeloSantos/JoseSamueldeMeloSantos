@@ -32,21 +32,6 @@ Aqui no meu GitHub compartilho meus projetos, estudos e experimentos nas mais di
 
 ---
 
-## 📂 Projetos em destaque
-
-- [Projeto 1](link-do-projeto-1) — Uma breve descrição do que ele faz e tecnologias usadas.  
-- [Projeto 2](link-do-projeto-2) — Outro projeto legal, focado em X e Y.  
-- Em breve mais projetos incríveis!
-
----
-
-## 📫 Como me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- [Twitter](https://twitter.com/seu-perfil)  
-- Email: seuemail@email.com
-
----
 
 ## 🎯 Um pouco mais sobre mim
 
