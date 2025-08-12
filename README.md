@@ -1,52 +1,28 @@
-# Hello, I'm Samuel Melo 👋
+## 💜 Hello, my name is Samuel Melo!
 
-I'm a passionate developer who loves technology and continuous learning.  
-Here on my GitHub, I share my projects, studies, and experiments with various technologies I master and am evolving in.
+I'm a passionate developer with knowledge in HTML, CSS, Java, Dart, MySQL, and JavaScript.  
+Currently improving my skills in React and Spring Boot. I love building clean, efficient, and scalable applications.
 
----
+🔭 I'm currently working on several personal projects to deepen my knowledge in React and Spring Boot.
 
-## 🚀 Technologies I Master
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>HTML</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>CSS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>Java</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" /><br>Dart</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>MySQL</td>
-  </tr>
-</table>
+💬 Feel free to reach out if you want to ask questions, collaborate, or just say hi!
 
 ---
 
-## 🔥 Technologies I'm Improving
+## 🚀 My Skills
 
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><br>React</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" /><br>Spring Boot</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><br>TypeScript</td>
-  </tr>
-</table>
-
----
-
-## 🎯 A Little More About Me
-
-Besides coding, I enjoy:
-
-- 🎮 Gaming   
-- 📚 Learning new things  
-- ☕ Lots of coffee
-- 🗣️ Learning languages  
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/></code>
 
 ---
 
-<div align="center">
+## ⭐ GitHub Stats
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=380&height=40&lines=Welcome+to+my+GitHub!;Let's+code+together!;Always+learning+and+sharing!)
-
-</div>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true)
 
