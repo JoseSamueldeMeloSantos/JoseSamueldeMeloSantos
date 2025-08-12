@@ -1,4 +1,4 @@
-![Programador codificando rapidamente](https://media.giphy.com/media/3o6Zt6Fqf9JY3bJdIY/giphy.gif]https://media.tenor.com/8S_CuT8s2_oAAAAM/bruce-almighty-comedy.gif)
+![Programador codificando rapidamente]([https://media.giphy.com/media/3o6Zt6Fqf9JY3bJdIY/giphy.gif]https://media.tenor.com/8S_CuT8s2_oAAAAM/bruce-almighty-comedy.gif](https://media.tenor.com/8S_CuT8s2_oAAAAM/bruce-almighty-comedy.gif))
 
 <p align="left">
   Hi, I'm Samuel Melo, a passionate developer.<br>
