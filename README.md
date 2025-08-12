@@ -1,28 +1,31 @@
-## 💜 Hello, my name is Samuel Melo!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
-I'm a passionate developer with knowledge in HTML, CSS, Java, Dart, MySQL, and JavaScript.  
-Currently improving my skills in React and Spring Boot. I love building clean, efficient, and scalable applications.
+<p align="left"> 
+  Hi, I'm Samuel Melo, a passionate developer skilled in HTML, CSS, Java, Dart, MySQL, and JavaScript.<br>
+  I'm currently improving my skills in React and Spring Boot. I work on personal projects and keep learning every day.
+</p>
 
-🔭 I'm currently working on several personal projects to deepen my knowledge in React and Spring Boot.
+<p align="left">
+  🦄 Languages: **HTML, CSS, Java, Dart, MySQL, JavaScript**
+</p>
 
-💬 Feel free to reach out if you want to ask questions, collaborate, or just say hi!
+<p align="left">
+  💼 Tools: **React, Spring Boot, VS Code, Git, GitHub**
+</p>
 
----
+<p align="left">
+  💌 Feel free to reach out to me here: ⤵️
+</p>
 
-## 🚀 My Skills
-
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/></code>
-
----
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true)
-
+<p align="left">
+  <a href="mailto:your.email@example.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/your-profile" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/yourwhatsapplink" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://facebook.com/yourprofile" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://instagram.com/yourprofile" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
