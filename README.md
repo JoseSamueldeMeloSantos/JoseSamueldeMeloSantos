@@ -2,11 +2,13 @@
   <img src="https://i.pinimg.com/originals/5a/18/23/5a18235734019e327369384ced24a054.jpg" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
   <p align="left"> 
-    Olá! Me chamo Samuel Melo. Sou desenvolvedor apaixonado por tecnologia.<br>
-    Minha stack principal inclui as linguagens e ferramentas que uso no dia a dia.<br>
-    Atualmente estou me aperfeiçoando em Spring e React.<br>
-    estudo na área de desenvolvimento de software.
-  </p>
+    Olá! Me chamo <strong>Samuel Melo</strong>.<br>
+    Sou desenvolvedor apaixonado por tecnologia.<br>
+    Gosto de games, programar e explorar novos desafios.<br>
+    Também tenho interesse em aprender novos idiomas.<br>
+    Atualmente estou me aperfeiçoando em <strong>Spring</strong> e <strong>React</strong>.<br>
+</p>
+
 
   <p align="left">
     ✅ <strong>Tecnologias que eu domino:</strong> <br>
