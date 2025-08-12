@@ -9,17 +9,17 @@
 
 <p align="left">
   🦄 <strong>Linguagens que eu domino:</strong> <br>
-  <img src="https://seeklogo.com/images/J/javascript-logo-2E0F2F8A9F-seeklogo.com.png" alt="JavaScript" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_icon_2013.svg" alt="Java" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/MySQL_logo.svg" alt="MySQL" width="40" height="40">
+  <img src="https://www.freepnglogos.com/uploads/javascript-logo-png/javascript-logo-transparent-background-1.png" alt="JavaScript" width="40" height="40">
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-transparent-background-2.png" alt="HTML" width="40" height="40">
+  <img src="https://www.freepnglogos.com/uploads/java-logo-png/java-logo-transparent-background-1.png" alt="Java" width="40" height="40">
+  <img src="https://www.freepnglogos.com/uploads/css3-logo-png/css3-logo-transparent-background-1.png" alt="CSS" width="40" height="40">
+  <img src="https://www.freepnglogos.com/uploads/mysql-logo-png/mysql-logo-transparent-background-1.png" alt="MySQL" width="40" height="40">
 </p>
 
 <p align="left">
   ⚙️ <strong>Tecnologias que estou me aperfeiçoando:</strong> <br>
-  <img src="https://seeklogo.com/images/S/spring-logo-4F4A6F1F5E-seeklogo.com.png" alt="Spring" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40">
+  <img src="https://www.bootflare.com/assets/images/logos/spring-framework-logo.png" alt="Spring" width="40" height="40">
+  <img src="https://www.pngall.com/wp-content/uploads/2016/05/React-Logo-PNG-Image.png" alt="React" width="40" height="40">
 </p>
 
 <p align="left">
