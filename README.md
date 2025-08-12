@@ -4,16 +4,6 @@
   Hi there 👋, my name is José Samuel 🚀
 </h1>
 
-<!-- GitHub stats -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseSamueldeMeloSantos&show_icons=true&theme=dark" alt="GitHub stats" />
-</p>
-<p>
-  <a href="https://github.com/JoseSamueldeMeloSantos">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseSamueldeMeloSantos&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</p>
-
 <hr style="width: 50%; margin: 1.5rem auto;" />
 
 <div style="display: flex; justify-content: center; gap: 3rem; flex-wrap: wrap; max-width: 800px; margin: 0 auto;">
@@ -47,8 +37,4 @@
 
 </div>
 
-<p style="margin-top: 1.5rem; font-style: italic; color: #999; max-width: 800px; margin-left: auto; margin-right: auto;">
-  Obs: Sei tudo isso, e atualmente estou evoluindo em <strong>React</strong>, <strong>Spring</strong> e <strong>TypeScript</strong>.
-</p>
-
-</div>
+<p style="margin-top: 1.5rem; font-style: italic; color: #999; max-width:
