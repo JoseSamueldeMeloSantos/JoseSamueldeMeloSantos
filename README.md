@@ -5,17 +5,44 @@ Here on my GitHub, I share my projects, studies, and experiments with various te
 
 ---
 
-## 🚀 Technologies I Master
+<table>
+<tr>
+
+<td style="vertical-align: top; padding-right: 2rem; max-width: 350px;">
+
+<h2>🎯 A Little More About Me</h2>
+
+<ul>
+  <li>🎮 Gaming</li>
+  <li>📚 Learning new things</li>
+  <li>☕ Lots of coffee</li>
+  <li>🗣️ Learning languages</li>
+</ul>
+
+<h2>🚀 Technologies I Master</h2>
 
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>HTML</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>CSS</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>JavaScript</td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br>Java</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" /><br>Dart</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br>MySQL</td>
   </tr>
+</table>
+
+</td>
+
+<td style="vertical-align: top; max-width: 400px;">
+
+<img src="https://i.pinimg.com/originals/16/5f/5a/165f5a7188c7a5164debaabd406ef43c.gif" width="100%" alt="Coding gif" />
+
+</td>
+
+</tr>
 </table>
 
 ---
@@ -29,30 +56,6 @@ Here on my GitHub, I share my projects, studies, and experiments with various te
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><br>TypeScript</td>
   </tr>
 </table>
-
----
-
-## 🎯 A Little More About Me
-
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; max-width: 400px;">
-
-  <div style="flex: 1 1 45%; min-width: 150px; font-size: 1.1rem;">
-    🎮 Gaming
-  </div>
-
-  <div style="flex: 1 1 45%; min-width: 150px; font-size: 1.1rem;">
-    📚 Learning new things
-  </div>
-
-  <div style="flex: 1 1 45%; min-width: 150px; font-size: 1.1rem;">
-    ☕ Lots of coffee
-  </div>
-
-  <div style="flex: 1 1 45%; min-width: 150px; font-size: 1.1rem;">
-    🗣️ Learning languages
-  </div>
-
-</div>
 
 ---
 
