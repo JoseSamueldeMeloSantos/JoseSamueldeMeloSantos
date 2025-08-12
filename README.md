@@ -32,9 +32,4 @@
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
-
-<p style="margin-top: 2rem; font-style: italic; color: #999;">
-  Obs: Sei tudo isso, e atualmente estou evoluindo em <strong>React</strong> e outras tecnologias.
-</p>
-
 </div>
