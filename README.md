@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/8S_CuT8s2_oAAAAM/bruce-almighty-comedy.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá! Me chamo Samuel Melo. Sou desenvolvedor apaixonado por tecnologia.<br>
@@ -9,17 +9,17 @@
 
 <p align="left">
   🦄 <strong>Linguagens que eu domino:</strong> <br>
-  <img src="https://www.freepnglogos.com/uploads/javascript-logo-png/javascript-logo-transparent-background-1.png" alt="JavaScript" width="40" height="40">
-  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-transparent-background-2.png" alt="HTML" width="40" height="40">
-  <img src="https://www.freepnglogos.com/uploads/java-logo-png/java-logo-transparent-background-1.png" alt="Java" width="40" height="40">
-  <img src="https://www.freepnglogos.com/uploads/css3-logo-png/css3-logo-transparent-background-1.png" alt="CSS" width="40" height="40">
-  <img src="https://www.freepnglogos.com/uploads/mysql-logo-png/mysql-logo-transparent-background-1.png" alt="MySQL" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> HTML,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> CSS,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> JavaScript,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/> Java,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> MySQL
 </p>
 
 <p align="left">
   ⚙️ <strong>Tecnologias que estou me aperfeiçoando:</strong> <br>
-  <img src="https://www.bootflare.com/assets/images/logos/spring-framework-logo.png" alt="Spring" width="40" height="40">
-  <img src="https://www.pngall.com/wp-content/uploads/2016/05/React-Logo-PNG-Image.png" alt="React" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/> React,  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/> Spring Boot
 </p>
 
 <p align="left">
