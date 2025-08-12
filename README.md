@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  ⚙️ <strong>Tecnologias que estou me aperfeiçoando:</strong> <br>
+  ⏳ <strong>Tecnologias que estou me aperfeiçoando:</strong> <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
