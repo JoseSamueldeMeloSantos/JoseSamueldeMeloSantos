@@ -1,9 +1,4 @@
-<div align="center">
-  <H1>
-    Hi there 👋, my name is José Samuel.
-  <H1>
-<div/>
----
+
 <img src="https://i.pinimg.com/originals/5a/18/23/5a18235734019e327369384ced24a054.jpg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
