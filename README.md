@@ -1,4 +1,9 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFsvp6aBuVFWp0pxflissL_eiMAryb8Ypxh4qFz_qgBPn-aHG7CzRTZCKKOpA1oCQJXBU3gh0ED5p5tAKfEkiUmfzLdqAzHuYgxgJ0XQ0YbGMeHMpu6uVzRDC-SiFDLqLlZEa1Q0ukQVw/s1600/VirgenMaria.gif" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFsvp6aBuVFWp0pxflissL_eiMAryb8Ypxh4qFz_qgBPn-aHG7CzRTZCKKOpA1oCQJXBU3gh0ED5p5tAKfEkiUmfzLdqAzHuYgxgJ0XQ0YbGMeHMpu6uVzRDC-SiFDLqLlZEa1Q0ukQVw/s1600/VirgenMaria.gif" 
+alt="ilustração de um computador" 
+min-width="300px" 
+max-width="300px" 
+width="300px" 
+align="right">
 
 <p align="left"> 
   Olá! Me chamo <strong>Samuel Melo</strong>.<br>
@@ -24,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" alt="Flutter"/>
 </p>
 
 <p align="left">
@@ -38,3 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="Docker"/>
 </p>
 
+<p align="left">
+  🌍 <strong>Línguas faladas:</strong> <br>
+  🇧🇷 Português <br>
+  🇺🇸 Inglês <br>
+  🇮🇹 Italiano <em>(em estágio de aprendizado)</em>
+</p>
