@@ -6,7 +6,7 @@ width="300px"
 align="right">
 
 <p align="left"> 
-  Olá! Me chamo <strong>Samuel Melo</strong>.<br>
+  Olá! Me chamo <strong>José Samuel</strong>.<br>
   Sou desenvolvedor apaixonado por tecnologia.<br>
   Gosto de games, programar e explorar novos desafios.<br>
   Também tenho interesse em aprender novos idiomas.<br>
