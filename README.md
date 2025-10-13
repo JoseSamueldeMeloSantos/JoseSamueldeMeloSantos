@@ -1,4 +1,4 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFsvp6aBuVFWp0pxflissL_eiMAryb8Ypxh4qFz_qgBPn-aHG7CzRTZCKKOpA1oCQJXBU3gh0ED5p5tAKfEkiUmfzLdqAzHuYgxgJ0XQ0YbGMeHMpu6uVzRDC-SiFDLqLlZEa1Q0ukQVw/s1600/VirgenMaria.gif" alt="ilustração de um computador" width="250px" align="right">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFsvp6aBuVFWp0pxflissL_eiMAryb8Ypxh4qFz_qgBPn-aHG7CzRTZCKKOpA1oCQJXBU3gh0ED5p5tAKfEkiUmfzLdqAzHuYgxgJ0XQ0YbGMeHMpu6uVzRDC-SiFDLqLlZEa1Q0ukQVw/s1600/VirgenMaria.gif" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
   Olá! Me chamo <strong>Samuel Melo</strong>.<br>
