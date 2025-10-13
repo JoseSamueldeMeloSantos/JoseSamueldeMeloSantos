@@ -49,5 +49,5 @@ align="right">
   🌍 <strong>Línguas faladas:</strong> <br>
   🇧🇷 Português <br>
   🇺🇸 Inglês <br>
-  🇮🇹 Italiano <em>(em estágio de aprendizado)</em>
+  🇮🇹 Italiano <em>(iniciante)</em>
 </p>
