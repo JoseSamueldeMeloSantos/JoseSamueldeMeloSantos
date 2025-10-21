@@ -5,13 +5,6 @@ max-width="300px"
 width="300px" 
 align="right">
 
-<!-- Card de linguagens compact, alinhado à direita -->
-<div align="right">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseSamueldeMeloSantos&layout=compact&theme=tokyonight)
-
-</div>
-
 <p align="left"> 
   Olá! Me chamo <strong>José Samuel</strong>.<br>
   Sou desenvolvedor apaixonado por tecnologia.<br>
