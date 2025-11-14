@@ -22,6 +22,8 @@ align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30" alt="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL"/>
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30" alt="Bootstrap"/>
 </p>
 
 <p align="left">
@@ -43,6 +45,10 @@ align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="Docker"/>
+  <!-- Vite -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="30" height="30" alt="Vite"/>
+  <!-- Testcontainers (não possui ícone oficial no Devicon, usando SVG alternativo) -->
+  <img src="https://raw.githubusercontent.com/testcontainers/testcontainers-java/main/docs/images/logo.svg" width="30" height="30" alt="Testcontainers"/>
 </p>
 
 <p align="left">
