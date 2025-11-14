@@ -44,8 +44,7 @@ align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="30" height="30" alt="Vite"/>
-  <img src="https://raw.githubusercontent.com/testcontainers/testcontainers-java/main/docs/images/logo.svg" width="30" height="30" alt="Testcontainers"/>
+  
 </p>
 
 <p align="left">
